@@ -92,13 +92,13 @@ function Modal({
                 className="w-full sm:w-32 px-4 py-2 text-white bg-green-500 rounded hover:bg-green-600"
                 onClick={handleClick}
               >
-                Enter Site!
+                เข้าร้าน
               </button>
               <button
                 className="w-full sm:w-32 px-4 py-2 text-white bg-red-500 rounded hover:bg-red-600"
                 onClick={() => setIsModalOpen(false)}
               >
-                Close Modal
+                ออกจากร้าน
               </button>
             </div>
           </div>

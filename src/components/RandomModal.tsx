@@ -34,7 +34,7 @@ function RandomModal({
               className="w-32 px-4 py-2 text-white bg-red-500 rounded hover:bg-red-600"
               onClick={() => setIsModalOpen(false)}
             >
-              Close Modal
+              เลือกได้แล้ว<br></br>/ เลือกใหม่
             </button>
           </div>
         </div>

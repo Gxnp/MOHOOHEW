@@ -18,6 +18,12 @@
         "mixed": ["ไก่"]
       },
       {
+        "title": "ปีกไก่ทอด",
+        "img" : "friedchic.jpg",
+        "catagory": ["ไทย"],
+        "mixed": ["ไก่"]
+      },
+      {
         "title": "เป็ดพะโล้",
         "img" : "duck.jpg",
         "catagory": ["จีน"],

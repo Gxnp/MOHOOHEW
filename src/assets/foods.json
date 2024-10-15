@@ -18,6 +18,24 @@
         "mixed": ["ไก่"]
       },
       {
+        "title": "ปีกไก่ทอด",
+        "img" : "friedchic.jpg",
+        "catagory": ["ไทย"],
+        "mixed": ["ไก่"]
+      },
+      {
+        "title": "ไก่ทอดผู้พัน",
+        "img" : "kfc.jpg",
+        "catagory": ["ไทย"],
+        "mixed": ["ไก่"]
+      },
+      {
+        "title": "ไก่มะนาว",
+        "img" : "chiclime.jpg",
+        "catagory": ["ไทย"],
+        "mixed": ["ไก่"]
+      },
+      {
         "title": "เป็ดพะโล้",
         "img" : "duck.jpg",
         "catagory": ["จีน"],
@@ -25,15 +43,27 @@
       },
       {
         "title": "กุ้งผัดเม็ดมะม่วงหิมพานต์",
-        "img" : "prawn.jpg",
+        "img" : "paw.jpg",
         "catagory": ["จีน"],
         "mixed": ["ทะเล"]
       },
       {
-        "title": "ผัดน้ำมันหอยจระเข้สไตล์กวางตุ้ง",
-        "img" : "bokchoy.jpg",
+        "title": "หอยนางรม",
+        "img" : "ois.jpg",
         "catagory": ["จีน"],
-        "mixed": ["จระเข้"]
+        "mixed": ["ทะเล"]
+      },
+      {
+        "title": "เตี๋ยวเรือ",
+        "img" : "boat.jpg",
+        "catagory": ["ไทย"],
+        "mixed": ["แป้ง"]
+      },
+      {
+        "title": "ยำทะเล",
+        "img" : "allsea.jpg",
+        "catagory": ["ไทย"],
+        "mixed": ["ทะเล"]
       },
       {
         "title": "ซูชิ",
